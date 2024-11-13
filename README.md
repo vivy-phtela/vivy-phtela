@@ -8,4 +8,4 @@
 
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/vivy/posts.svg)](http://qiita.com/vivy)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/mikkame/contributions.svg)](http://qiita.com/vivy)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/vivy/contributions.svg)](http://qiita.com/vivy)
